@@ -1,4 +1,4 @@
-all: knn.o test.co
+all: knn.o test.o
 	g++ -o test knn.o test.o
 	./test
 
