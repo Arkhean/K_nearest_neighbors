@@ -1,4 +1,4 @@
-# K_nearest_neighbor
+# K_nearest_neighbors
 
 Implémentation de l'algorithme des k plus proches voisins pour la classification
 
